@@ -1,9 +1,9 @@
 [submodule "capture"]
         path = capture
-        url = ../foren6-capture.git
+        url = https://github.com/schlatterbeck/foren6-capture.git
 [submodule "analyzer"]
         path = analyzer
-        url = ../foren6-analyzer.git
+        url = https://github.com/cetic/foren6-analyzer.git
 [submodule "gui-qt"]
         path = gui-qt
-        url = ../foren6-gui-qt.git
+        url = https://github.com/cetic/foren6-gui-qt.git
